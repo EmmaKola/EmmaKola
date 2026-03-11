@@ -10,7 +10,6 @@ I am profiecient in using **SQL, Python, Power BI, Tableau, Excel** with a prove
 - **Visualisation** - Power BI, Tableau, Excel
 - **DataBase Management** - Microsoft SQL Server, MySQL, PostgreSQL
 - **Other** - Data Modelling, Performance Metrics, Storytelling, Data Governance.
-- 
 ### Connect with Me
 **You can connect with me on**<br>
 Email: emmakola20@gmail.com, 
