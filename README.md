@@ -18,4 +18,4 @@ I am profiecient in using **SQL, Python, Power BI, Tableau, Excel** with a prove
 </p>
 
 ### View my work
-You can view my work at [My portfolio](https://emmakola.github.io)
+You can view my work at [**My portfolio**](https://emmakola.github.io)
