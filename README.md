@@ -16,4 +16,5 @@ I am profiecient in using **SQL, Python, Power BI, Tableau, Excel** with a prove
   <a href="https://www.linkedin.com/in/emmanuelokolawole"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:emmakola20@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
-You can view my works at [my portfoliowebsite](https://emmakola.github.io)
+
+You can view my work at: [My portfolio](https://emmakola.github.io)
